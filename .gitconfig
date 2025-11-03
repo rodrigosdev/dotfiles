@@ -2,6 +2,6 @@
 	name = RodrigoRafaelSantos7
 	email = rodrigorafaelsantos7@icloud.com
 [core]
-	editor = zed --wait
+	editor = cursor --wait
 [init]
 	defaultBranch = main
