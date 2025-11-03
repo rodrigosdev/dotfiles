@@ -1,0 +1,5 @@
+window-padding-color = background
+font-family = "Geist Mono Light" 
+font-size = 18
+font-feature = -liga
+keybind = shift+enter=text:\x1b\r

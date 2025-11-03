@@ -1,10 +1,9 @@
 anysphere.pyright
+louisyoung.pastel-pro
 dimritium.pastel-underwater-contrast
-hasibx2000.dracula-pro
 inferrinizzard.prettier-sql-vscode
 jmfirth.vsc-space-block-jumper
 kaiwood.center-editor-window
-louisyoung.pastel-pro
 prisma.prisma
 ryu1kn.text-marker
 stkb.rewrap
