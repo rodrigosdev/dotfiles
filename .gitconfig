@@ -1,7 +1,12 @@
 [user]
-	name = RodrigoRafaelSantos7
 	email = hello@rodrigosantos.dev
+	name = Rodrigo Santos
+[grep]           
+	linenumber = true
+[alias]
+	ls = ls-files
 [core]
-	editor = cursor --wait
+	editor = code --wait
+	excludesfile = /Users/rodrigo/.gitignore
 [init]
 	defaultBranch = main
