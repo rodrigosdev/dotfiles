@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "waderyan.gitblame",
+        "GitHub.vscode-pull-request-github",
+        "Prisma.vscode-graphql",
+        "flvffy.poimandres",
+        "esbenp.prettier-vscode",
+        "snyk-security.snyk-vulnerability-scanner"
+    ]
+}

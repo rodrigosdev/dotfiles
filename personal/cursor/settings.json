@@ -1,0 +1,57 @@
+{
+  // Workbench
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "workbench.editor.showTabs": "multiple",
+  "workbench.sideBar.location": "right",
+  "workbench.tree.indent": 15,
+  "workbench.startupEditor": "none",
+  "workbench.layoutControl.enabled": false,
+  "workbench.activityBar.location": "top",
+  "workbench.editor.editorActionsLocation": "hidden",
+  "workbench.colorTheme": "poimandres-storm",
+  // Editor
+  "editor.cursorStyle": "block",
+  "editor.fontLigatures": false,
+  "editor.fontSize": 17,
+  "editor.fontFamily": "Geist Mono Light",
+  "editor.minimap.enabled": false,
+  "editor.wordWrap": "on",
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "editor.trimAutoWhitespace": false,
+  "editor.renderWhitespace": "all",
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.suggestSelection": "first",
+  // Window
+  "window.title": "${folderName} ${separator} ${activeEditorMedium} ${dirty} ${separator} ${appName}",
+  "window.zoomLevel": -0.75,
+  "window.newWindowDimensions": "maximized",
+  "window.commandCenter": false,
+  // Git 
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.openRepositoryInParentFolders": "never",
+  // JavaScript
+  "javascript.validate.enable": false,
+  // Explorer
+  "explorer.autoReveal": false,
+  // Keyboard
+  "keyboard.dispatch": "keyCode",
+  // Terminal
+  "terminal.integrated.scrollback": 1000000000,
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontFamily": "Geist Mono",
+  // Typescript
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  // Breadcrumbs
+  "breadcrumbs.enabled": false,
+  // Security
+  "security.workspace.trust.untrustedFiles": "open",
+  "security.workspace.trust.banner": "never",
+  "security.workspace.trust.enabled": false,
+  // Explorer
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.sortOrder": "filesFirst"
+}

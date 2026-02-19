@@ -6,7 +6,7 @@
 [alias]
 	ls = ls-files
 [core]
-	editor = code --wait
+	editor = cursor --wait
 	excludesfile = /Users/rodrigo/.gitignore
 [init]
 	defaultBranch = main

@@ -1,0 +1,12 @@
+[user]
+	email = rodrigo.santos@snyk.io
+	name = Rodrigo Santos
+[grep]           
+	linenumber = true
+[alias]
+	ls = ls-files
+[core]
+	editor = surf --wait
+	excludesfile = /Users/rodrigosantos/.gitignore
+[init]
+	defaultBranch = main

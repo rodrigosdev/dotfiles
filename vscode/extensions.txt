@@ -1,8 +1,0 @@
-golang.go
-louisyoung.pastel-pro
-rust-lang.rust-analyzer
-subframe7536.custom-ui-style
-esbenp.prettier-vscode
-GitHub.vscode-pull-request-github
-dbaeumer.vscode-eslint
-firefox-devtools.vscode-firefox-debug
