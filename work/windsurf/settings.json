@@ -61,5 +61,5 @@
   // Explorer
   "explorer.confirmDelete": false,
   "explorer.confirmDragAndDrop": false,
-  "explorer.sortOrder": "filesFirst",
+  "explorer.sortOrder": "filesFirst"
 }
