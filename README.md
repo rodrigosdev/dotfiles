@@ -2,7 +2,8 @@
 
 Recently I changed from `zsh` to `fish`. The main reason was that I wanted a minimal config shell and more performance. I am super happy with the change!
 
-- [.zshrc](./.zshrc)
+I use [starship](https://starship.rs/) for my prompt. I also use the [Catppuccin Powerline Preset](https://starship.rs/presets/catppuccin-powerline) theme for my terminal.
+
 
 ### Check Also
 
