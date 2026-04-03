@@ -1,5 +1,7 @@
 # Rodrigo's Dotfiles
 
+![Ghostty Terminal Screenshot](github.png)
+
 My personal configuration files, managed with a `home/.config` structure that mirrors `~/.config`.
 
 ### Fish Shell
