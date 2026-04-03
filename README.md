@@ -2,8 +2,6 @@
 
 My personal configuration files, managed with a `home/.config` structure that mirrors `~/.config`.
 
-## What's Inside
-
 ### Fish Shell
 
 Minimal [fish](https://fishshell.com/) configuration with [fisher](https://github.com/jorgebucaran/fisher) for plugin management.
