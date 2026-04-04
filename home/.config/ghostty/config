@@ -32,7 +32,7 @@ clipboard-read = allow
 clipboard-write = allow
 
 # macos options
-macos-option-as-alt = true
+macos-option-as-alt = false
 macos-titlebar-proxy-icon = hidden
 
 # Window settings
