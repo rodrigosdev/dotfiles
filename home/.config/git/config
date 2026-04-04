@@ -44,7 +44,7 @@
 	gpgSign = true
 
 [user]
-	email = "hello@rodrigos.dev"
+	email = "hello@rodrigosantos.dev"
 	name = "Rodrigo Santos"
 	signingKey = "~/.ssh/id_ed25519.pub"
 
